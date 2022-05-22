@@ -9,7 +9,7 @@ To get a Git project into your build:
 <b>Step 1.</b> Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
 
-```kotlin
+```gradle
 allprojects {
 	repositories {
 		...
@@ -20,7 +20,7 @@ allprojects {
 
 <b>Step 2.</b> Add the dependency
 
-```kotlin
+```gradle
 dependencies {
 	implementation 'com.github.ashish99799:biometric_verification:1.0.0'
 }
