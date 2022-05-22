@@ -1,6 +1,8 @@
 # Biometric Verification
 This library are used for verify mobile biometric verification.
 
+<img src="https://img.shields.io/badge/API-24%2B-blue.svg?style=flat" style="max-width:100%;" alt="API" data-canonical-src="https://img.shields.io/badge/API-23%2B-blue.svg?style=flat" style="max-width:100%;">
+
 ## Integrate the library.
 To get a Git project into your build:
 
